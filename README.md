@@ -1,0 +1,1 @@
+This is the initial README for the MnSki site.  To be updated later.
